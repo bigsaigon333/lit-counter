@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "es2015",
+    "target": "es2015",
+    "allowJs": false,
+    "experimentalDecorators": true,
+    "strict": true,
+    "moduleResolution": "node"
+  },
+  "includes": ["src/**/*.ts"]
+}
